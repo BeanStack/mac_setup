@@ -370,9 +370,9 @@ Redis is a NoSQL database and there are a lot of [cool things](http://oldblog.an
 
 Here is a quick list of some apps I use, and that you might find useful as well:
 
-- [Dropbox](https://www.dropbox.com/): File syncing to the cloud. I put all my documents in Dropbox. It syncs them to all my devices (laptop, mobile, tablet), and serves as a backup as well! **(Free for 2GB)**
-- [Google Drive](https://drive.google.com/): File syncing to the cloud too!
-- [Evernote](https://evernote.com/): If I don't write something down, I'll forget it. As a developer, you learn so many new things every day, and technology keeps changing, it would be insane to want to keep it all in your head. So take notes, sync them to the cloud, and have them on all your devices.
+- [Dropbox](https://www.dropbox.com/)
+- [Google Drive](https://drive.google.com/)
+- [Evernote](https://evernote.com/)
 
 
 ##References
